@@ -26,7 +26,7 @@ This had to be done by printing the matrices and using visual inspection. It che
 
 ## Step 5) Verify Standard Form
 Finally, I got to verifying the standard form. I chose to do this last for two reasons:
-1. You used someone else's code for parts of this, so I assumed an error would be more likely in code you wrong in a time crunch.
+1. You used someone else's code for parts of this, so I assumed an error would be more likely in code you wrote in a time crunch.
 2. There is no calculator for putting a matrix in a standard form. I literally did this by hand on a 10x10 matrix. You're welcome haha.
 
 This is where it gets interesting. I chose to put it in standard form by taking the 4 absorbing states, and making them the first 4 states in the order that they appeared in the original matrix.
