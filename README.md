@@ -16,15 +16,13 @@ Just keep in mind that for the following, I am referring to the last test case.
 I use this function pretty much throughout all of my debugging. It gives me important information like the dimensions of the matrix.
 
 ## Step 2) Verify Matrix Multiplication and Inverse function correctness.
-In this step, I aimed to expose potential flaws in your multiplication and inverse functions.
-I used the prettyPrintMatrix function that I wrote in Step1 to print the F and R matrices, along with the result of multiplying them. I verified the multiplication on a calculator. I then also took the result and inversed it on a calculator. I checked these results with the prettyPrintMatrix results from your code.
 As it turns out, your multiplication and inverse functions seem to be doing their jobs. HOWEVER I did not check to see if your mult function allows someone to pass in uncompatible matrices such as the case where the dimensionalities don't match up.
 
 ## Step 3) Verify (Identity - Q)
 This was easy to check. Works fine.
 
 ## Step 4) Verify your Pre-processing like Transition Form and Absorbing Form
-This had to be down by printing the matrices and using visual inspection. It checked out.
+This had to be done by printing the matrices and using visual inspection. It checked out.
 
 ## Step 5) Verify Standard Form
 Finally, I got to verifying the standard form. I chose to do this last for two reasons:
