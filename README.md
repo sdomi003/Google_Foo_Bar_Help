@@ -35,7 +35,7 @@ This is where it gets interesting. I chose to put it in standard form by taking 
 From there, I put the non-absorbing states beneath the absorbing states in the order that they appeared in the original matrix.
 
 Here's the original and the Standard Form version side by side:
-![StandardFormCalculation](/images/standardFormCalculation.png)
+![StandardFormCalculation](StandardFormCalculation.png)
 
 At this point, I hard-coded this standard form into your code and ran it. Here's the final result, with all the pretty print calls so you can see and the intermediate steps along the process.
 
